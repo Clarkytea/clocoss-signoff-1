@@ -27,4 +27,5 @@ echo "Secret key: $secretKey";
 echo "Server IP: $serverip";
 
 echo "Starting worker...";
+echo "Pless ctrl+C to terminate the service!";
 npm run client $secretKey $serverip:8080;
