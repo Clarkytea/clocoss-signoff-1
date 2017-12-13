@@ -13,7 +13,7 @@ A repo to exectute the following:
 
 ```bash
 open GCloud Shell
-git clone https://github.com/Clarkytea/Clocoss--signoff-1
-cd Clocoss--signoff-1
+git clone https://github.com/Clarkytea/clocoss-signoff-1
+cd clocoss-signoff-1
 bash clocoss-signoff-1.sh [no. of workers];
 ```
